@@ -1,0 +1,27 @@
+body {
+	border:1px solid blue;
+	width:960px;
+	margin:0 auto;
+}
+
+#header {
+	margin-left:50px;
+}
+#wrapper {
+	border:1px solid red;
+	min-height:300px;
+}
+	#content {
+		background:#ff95cc;
+		width:660px;
+		float:right;
+	}
+	#sidebar {
+		background:#95f9ff;
+		width:298px;
+		float:left;
+	}
+#footer {
+	border:3px solid green;
+	clear:both;
+}
